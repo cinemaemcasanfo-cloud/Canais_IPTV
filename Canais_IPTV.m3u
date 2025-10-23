@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/cartoon_network_app_1024x1024.png"group-title="CARTOON NETWORK",CARTOON NETWORK
-http://trabalho724.top:8080/1npyhdzb/x2agew3q/45198
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Mc_d-wpio6BnfKgFZAGZsD8wXS4znDaNXu2ezhHiAtbZjzL1yNpA2zj1VZxtLllCtsEhmdzR=s160-c-k-c0x00ffffff-no-rj"group-title="Lofi",Lofi
+https://www.youtube.com/watch?v=xHk3-REBEbE
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp"group-title="TV Brasil",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d763ea519688a3d155d370eaa3c9892b.webp"group-title="Futura",Futura
+https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp"group-title="Record News",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.webp"group-title="AniTV",AniTV
